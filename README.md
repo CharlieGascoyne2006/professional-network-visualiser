@@ -12,9 +12,9 @@ An interactive visualisation of my professional network built with Python and vi
 
 ## Tech stack
 
-- **Python** (pandas, hashlib, json) — data processing in Jupyter Notebook
-- **Excel** — data source (`Network.xlsx`)
-- **vis-network.js** — graph rendering
+- **Python** (pandas, hashlib, json) - data processing in Jupyter Notebook
+- **Excel** - data source (`Network.xlsx`)
+- **vis-network.js** - graph rendering
 - **HTML/CSS/JavaScript** — self-contained output file
 
 ## How to run it
@@ -22,10 +22,10 @@ An interactive visualisation of my professional network built with Python and vi
 1. Clone the repo
 2. Open `Network.ipynb` in Jupyter
 3. Make sure `Network.xlsx` is in the same directory
-4. Run all cells — this generates `final_network.html`
+4. Run all cells - this generates `final_network.html`
 5. Open `final_network.html` in Chrome
 
-Or just download `Network.html` and open it directly in Chrome — no setup needed.
+Or just download `Network.html` and open it directly in Chrome - no setup needed.
 
 ## Background
 
